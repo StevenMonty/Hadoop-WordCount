@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79a12b8b-e298-4737-8f59-60fdb251f2e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jFxZm0odXtkNm46NLTdmvQ0m0F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="stevenmontalbano@gmail.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="cloud-comp-dhfs-cluster" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="Cloud-Comp-DHFS-Cluster" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="463246640870" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a12b8b-e298-4737-8f59-60fdb251f2e7" name="Default Changelist" comment="" />
+      <created>1603413701089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603413701089</updated>
+      <workItem from="1603413704431" duration="1116000" />
+      <workItem from="1603415835851" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="277" key="#Big_Data_Tools_Connections" timestamp="1603415098805">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="390" y="277" key="#Big_Data_Tools_Connections/1920.203.1440.877/0.23.1920.1006@0.23.1920.1006" timestamp="1603415098805" />
+    <state x="471" y="376" key="#Notifications" timestamp="1603413755879">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="471" y="376" key="#Notifications/1920.203.1440.877/0.23.1920.1006@0.23.1920.1006" timestamp="1603413755879" />
+    <state x="310" y="197" key="#SSH_Configurations" timestamp="1603415668952">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="310" y="197" key="#SSH_Configurations/1920.203.1440.877/0.23.1920.1006@0.23.1920.1006" timestamp="1603415668952" />
+    <state x="235" y="184" key="SettingsEditor" timestamp="1603415813753">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="235" y="184" key="SettingsEditor/1920.203.1440.877/0.23.1920.1006@0.23.1920.1006" timestamp="1603415813753" />
+    <state x="391" y="252" key="run.anything.popup" timestamp="1603415764131">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="391" y="252" key="run.anything.popup/1920.203.1440.877/0.23.1920.1006@0.23.1920.1006" timestamp="1603415764131" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
